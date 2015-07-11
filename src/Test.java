@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Created by Mac on 30.10.14 Baturay Kayaturk - 120315024 - Project I
- */
-
 public class Test {
 
       public static void main(String[] args) {
